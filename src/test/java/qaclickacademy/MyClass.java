@@ -8,6 +8,7 @@ public class MyClass {
 		System.out.println("Push code 1");
 		System.out.println("Push code 2");
 		System.out.println("Push code 3");
+		System.out.println("Push code 4");
 
 	}
 
