@@ -9,7 +9,10 @@ public class MyClass {
 		System.out.println("Push code 2");
 		System.out.println("Push code 3");
 		System.out.println("Push code 4");
-
+		System.out.println("Push code 5");
+		System.out.println("Push code 6");
+		System.out.println("Push code 7");
+		System.out.println("Push code 8");
 	}
 
 }
